@@ -1,0 +1,19 @@
+{
+  "kind": "collectionType",
+  "collectionName": "treks",
+  "info": {
+    "singularName": "trek",
+    "pluralName": "treks",
+    "displayName": "trek",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "trek_name": {
+      "type": "string"
+    }
+  }
+}
